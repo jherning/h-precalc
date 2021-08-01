@@ -1,0 +1,14 @@
+*.synctex.gz
+*.pdf
+*.gnuplot
+ans*.tex
+*.aux
+*.auxlock
+*.idx
+*.ilg
+*.ind
+*.log
+*.out
+*.toc
+book-figure*
+
